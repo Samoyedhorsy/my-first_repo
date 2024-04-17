@@ -11,4 +11,4 @@ Added text in new branch
 
 Solved conflict in browser
 
-Solved conflict in browser[thj,jhf
+Solved conflict (TXT in browser)
